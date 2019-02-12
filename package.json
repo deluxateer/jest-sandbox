@@ -1,0 +1,22 @@
+{
+  "name": "jest-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox repo for experimenting with Jest. https://jestjs.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deluxateer/jest-sandbox.git"
+  },
+  "author": "Deluxateer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deluxateer/jest-sandbox/issues"
+  },
+  "homepage": "https://github.com/deluxateer/jest-sandbox#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
